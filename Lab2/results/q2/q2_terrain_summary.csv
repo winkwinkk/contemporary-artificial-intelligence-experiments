@@ -1,0 +1,7 @@
+﻿scenario,method,cost,path_length,search_nodes,expanded_nodes,generated_nodes,runtime_ms
+uniform,Dijkstra,17,18,100,99,100,0.6425133363033334
+uniform,Weighted_AStar,17,18,100,99,100,0.6695666505644718
+high_cost_region,Dijkstra,17,18,93,92,100,0.6011866731569171
+high_cost_region,Weighted_AStar,17,18,84,83,100,0.7422666686276594
+random_mixed,Dijkstra,32,18,93,92,99,0.6722733223189911
+random_mixed,Weighted_AStar,32,18,83,82,98,0.6376600125804543
